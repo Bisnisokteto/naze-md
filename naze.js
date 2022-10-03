@@ -24,7 +24,7 @@ const hariini = moment.tz('Asia/Jakarta').format('dddd, DD MMMM YYYY')
 const barat = moment.tz('Asia/Jakarta').format('HH:mm:ss')
 const tengah = moment.tz('Asia/Makassar').format('HH:mm:ss')
 const timur = moment.tz('Asia/Jayapura').format('HH:mm:ss')
-const nyoutube = ('simple bot WhatsApp by DikaTools\nbot expired pada 28nov\nChenBOT-MD')  //ubah di config biar ngk emror
+const nyoutube = ('simple bot WhatsApp by DikaTools\ninformasi tentang bot⬇️\nhttps://linktr.ee/chenbotwhatsapp')  //ubah di config biar ngk emror
 const ini_mark = `0@s.whatsapp.net`
 const ownernya = ownernomer + '@s.whatsapp.net'
 
